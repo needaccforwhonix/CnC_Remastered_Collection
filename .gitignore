@@ -1,9 +1,8 @@
 
+[Bb]in/
+[Dd]ebug/
+# Output object and binary folders
+[Rr]elease/
+*.user
 # Visual Studio files
 .vs/
-*.user
-
-# Output object and binary folders
-[Dd]ebug/
-[Rr]elease/
-[Bb]in/
